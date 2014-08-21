@@ -74,36 +74,38 @@ public final class LocationUtils {
 
     // An array of latitudes for constructing test data
     public static final double[] WAYPOINTS_LAT = {
-    34.413739,
-    41.2093,
-    37.381224,
-    37.382008,
-    37.385486,
-    37.387021,
-    37.384847,
-    37.385461};
+    34.413963,
+    37.422,
+    47.641839,
+    29.817178,
+    25.782324,
+    41.8337329,
+    42.3133734,
+    42.755942
+    };
 
     // An array of longitudes for constructing test data
     public static final double[] WAYPOINTS_LNG = {
-    -119.841148,
-    -73.801653,
-    -122.086344,
-    -122.086151,
-    -122.083941,
-    -122.083104,
-    -122.078683,
-    -122.078265};
+	-119.848947,
+	-122.084058,
+	-122.140746,
+	-95.4012915,
+	-80.2310801,
+	-87.7321555,
+	-71.057157,
+	-75.8092041
+	};
 
     // An array of accuracy values for constructing test data
     public static final float[] WAYPOINTS_ACCURACY = {
-        3.0f,
-        3.12f,
-        3.5f,
-        3.7f,
-        3.12f,
-        3.0f,
-        3.12f,
-        3.7f
+        1.0f,
+        1.12f,
+        1.5f,
+        1.7f,
+        1.12f,
+        1.0f,
+        1.12f,
+        1.7f
     };
 
     // Mark the broadcast Intent with an action
