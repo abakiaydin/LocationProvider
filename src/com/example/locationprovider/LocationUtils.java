@@ -99,13 +99,13 @@ public final class LocationUtils {
     // An array of accuracy values for constructing test data
     public static final float[] WAYPOINTS_ACCURACY = {
         1.0f,
-        1.12f,
-        1.5f,
-        1.7f,
-        1.12f,
         1.0f,
-        1.12f,
-        1.7f
+        1.0f,
+        1.0f,
+        1.0f,
+        1.0f,
+        1.0f,
+        1.0f
     };
 
     // Mark the broadcast Intent with an action
